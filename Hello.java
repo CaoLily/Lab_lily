@@ -1,5 +1,3 @@
-package com.sap.sakp.lili.lab;
-
 public class Hello {
 
 	public static void main(String[] args) {
